@@ -42,7 +42,7 @@
 }
 
 *,
-*::before,
+*::before,387BF5
 *::after {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
